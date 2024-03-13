@@ -1,0 +1,93 @@
+/* Home.css */
+body {
+    
+    margin: 0;
+    padding: 0;
+    background-color: rgb(135, 186, 230);
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.container {
+    /* Add your CSS styles here */
+    margin: 20px;
+    padding: 8px;
+    background-color: #e2dddd;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.container1 {
+    width: 40%;
+    margin-top: 50px;
+    margin-left: 30px;
+    float: left;
+    padding: 20px;
+    background-color: #f2f2f2;
+    overflow: auto; 
+}
+
+.dropdown-container1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+
+.dropdown-container2 {
+    margin-top: -21px;
+    margin-bottom: 10px;
+    margin-left: 180px;
+}
+
+.dropdown-container3 {
+    margin-top: -31px;
+    margin-bottom: 10px;
+    margin-left: 380px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.product-section {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-row {
+    width: 21%;
+    padding: 10px;
+}
+
+.container2 {
+    width: 50%;
+    margin-top: 50px;
+    float: right;
+    padding: 20px;
+    background-color: #f0dada;
+    border-radius: 10px;
+    overflow: scroll;
+    height: 450px;
+}
+.dropdown-container4{
+    display: inline;
+    margin-left: 10px;
+}
+.dropdown-container5{
+    display: inline;
+    margin-left: 40px;
+}
+.dropdown-container6 {
+    display: inline;
+    margin-left: 70px;
+}
